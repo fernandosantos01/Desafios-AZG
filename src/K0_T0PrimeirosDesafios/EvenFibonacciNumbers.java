@@ -1,6 +1,6 @@
 package K0_T0PrimeirosDesafios;
 
-public class Main {
+public class EvenFibonacciNumbers {
     public static void main(String[] args) {
         int valorMaximo = 4000000;
         int valorAnterior = 1;
